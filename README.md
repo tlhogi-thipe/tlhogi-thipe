@@ -1,4 +1,4 @@
-# Hello, I'm T
+# Hello, I'm Tlhogi
 <a href="https://linkedin.com/in/tlhogithipe"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an Instructional Desginer with a profound interest interest in technology and a dedication to solving complex problems.
