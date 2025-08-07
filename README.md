@@ -4,7 +4,7 @@
 I am an Instructional Desginer with a profound interest interest in technology and a dedication to solving complex problems.
 
 ## Objective
-My journey as an Instructional Designer at a bank led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Engineer jnr role.
+My journey as an Instructional Designer at a bank led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Cloud Security Analyst role.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
