@@ -55,7 +55,7 @@ My journey as an Instructional Designer at a bank led me to develop a passion fo
 </div>
 
 ## Projects
-- Vulnerbility Scanner Deployment
+- <a href="https://github.com/tlhogi-thipe/Vulnerability-Scanner-Deployment">Vulnerability Scanner Deployment</a>
 - Password Manager Hosted in Cloud
 - HoneyPot Hosted in Cloud
 - Microsoft Sentinel SIEM
