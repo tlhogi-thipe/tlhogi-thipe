@@ -11,7 +11,7 @@ My journey as an Instructional Designer at a bank led me to develop a passion fo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/tlhogi-thipe/Vulnerability-Scanner-Deployment/tree/main)">Vulnerbility Scanner Deployment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,7 +55,7 @@ My journey as an Instructional Designer at a bank led me to develop a passion fo
 </div>
 
 ## Projects
-- Vulnerability Scanner Deployment
+- <a href="https://github.com/tlhogi-thipe/Vulnerability-Scanner-Deployment/tree/main)">Vulnerbility Scanner Deployment</a>
 - Password Manager Hosted in Cloud
 - HoneyPot Hosted in Cloud
 - Microsoft Sentinel SIEM
